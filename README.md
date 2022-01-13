@@ -38,8 +38,17 @@ Then under policies search for "s3" and under s3 click on AMAZONS3FULLACCESS
 ![WhatsApp Image 2022-01-13 at 17 44 13](https://user-images.githubusercontent.com/58841159/149331241-1252ea1e-494a-4044-8809-b71e8193fb25.jpeg)
 
 
+Then in the third and fourth step if you want to add any keywords then add or else cntinue to the last step.
 
-Then install the aws cli configure the aws cli by using the command: %   aws configure
-then you would be asked to enter the access key id and secret key and continue for the region and output format.
+In the fifth step (Final Step) you can  can see your access key id and secret key id.
+(Do not share you access key id  and secret key id to anyone and for a user it is his responsibility to remember his secret key id.)
 
 
+
+
+![WhatsApp Image 2022-01-13 at 17 43 07](https://user-images.githubusercontent.com/58841159/149332793-1995b3ea-7c23-4496-9289-fab2609125bd.jpeg)
+
+
+THEN OPEN YOUR AWS LAMBDA AND WRITE THE PROGRAM TO COPY FILES FROM ONE S3 BUCKEET TO ANOTHER S3 BUCKET AS SOON AS IT IS TRIGGERED IN THE LAUNGUAGE YOU ARE COMFORTABLE.
+In my case it is python.
+For python code refer to my files.
