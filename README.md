@@ -10,7 +10,11 @@ How to get aws ascess key id and secret ascess key?
 
 <img width="1411" alt="Screenshot 2022-01-13 at 15 22 18" src="https://user-images.githubusercontent.com/58841159/149307445-7f783fb8-a539-4d9d-9c2e-ad6ae1e2700f.png">
 
-=>Then go to users and
+=>Then go to users and click on Add user
+=>As soon as you click on add user then we can see the a blank box for to write a user name
+
+
+![WhatsApp Image 2022-01-13 at 17 43 21](https://user-images.githubusercontent.com/58841159/149330024-9da478ef-b981-4988-88f4-f938e581c410.jpeg)
 
 
 
