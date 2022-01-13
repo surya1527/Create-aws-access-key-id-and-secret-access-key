@@ -10,6 +10,9 @@ How to get aws ascess key id and secret ascess key?
 
 <img width="1411" alt="Screenshot 2022-01-13 at 15 22 18" src="https://user-images.githubusercontent.com/58841159/149307445-7f783fb8-a539-4d9d-9c2e-ad6ae1e2700f.png">
 
+=>Then go to users and
+
+
 
 Then install the aws cli configure the aws cli by using the command: %   aws configure
 then you would be asked to enter the ascess key id and secret key and continue for the region and output format.
