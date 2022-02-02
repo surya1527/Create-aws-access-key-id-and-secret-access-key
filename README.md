@@ -35,6 +35,7 @@ Then under policies search for "s3" and under s3 click on AMAZONS3FULLACCESS
 
 
 
+
 ![WhatsApp Image 2022-01-13 at 17 44 13](https://user-images.githubusercontent.com/58841159/149331241-1252ea1e-494a-4044-8809-b71e8193fb25.jpeg)
 
 
