@@ -1,7 +1,6 @@
 <h1>Create-aws-access-key-id-and-secret-access-key</h1>
 
 
-
 In order to copy files from one s3 bucket to another s3 bucket it is mandatory to create AWS ACCESS KEY ID AND SECRET ACCESS KEY and to install AWS CLI.
 
 
