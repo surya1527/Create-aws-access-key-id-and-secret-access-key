@@ -4,6 +4,7 @@
 In order to copy files from one s3 bucket to another s3 bucket it is mandatory to create AWS ACCESS KEY ID AND SECRET ACCESS KEY and to install AWS CLI.
 
 
+
 How to get aws access key id and secret access key?
 
 => In order to get aws access key id and secret key we need to create user in the IAM(Identity and Access Management).
