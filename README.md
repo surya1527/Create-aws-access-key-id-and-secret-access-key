@@ -1,10 +1,12 @@
 <h1>Create-aws-access-key-id-and-secret-access-key</h1>
 
 
-In order to copy files from one s3 bucket to another s3 bucket it is mandatory to create AWS ACCESS KEY ID AND SECRET ACCESS KEY and to install AWS CLI.
 
 
-How to get aws access key id and secret access key?
+In order connect our system to aws account we need to install AWS CLI. </br>
+In case if you have aws access key id and secret access key [Click here](#awsconfigure) to directly move the configuration step.</br>
+
+How to get aws access key id and secret access key?</br>
 
 => In order to get aws access key id and secret key we need to create user in the IAM(Identity and Access Management).
 
@@ -39,7 +41,7 @@ Then under policies search for "s3" and under s3 click on AMAZONS3FULLACCESS
 ![WhatsApp Image 2022-01-13 at 17 44 13](https://user-images.githubusercontent.com/58841159/149331241-1252ea1e-494a-4044-8809-b71e8193fb25.jpeg)
 
 
-Then in the third and fourth step if you want to add any keywords then add or else cntinue to the last step.
+Then in the third and fourth step if you want to add any keywords then add or else cntinue to the last step.</br>(
 
 In the fifth step (Final Step) you can  can see your access key id and secret key id.
 (Do not share you access key id  and secret key id to anyone and for a user it is his responsibility to remember his secret key id.)
@@ -47,11 +49,19 @@ In the fifth step (Final Step) you can  can see your access key id and secret ke
 
 
 
-![WhatsApp Image 2022-01-13 at 17 43 07](https://user-images.githubusercontent.com/58841159/149332793-1995b3ea-7c23-4496-9289-fab2609125bd.jpeg)
+![WhatsApp Image 2022-01-13 at 17 43 07](https://user-images.githubusercontent.com/58841159/149332793-1995b3ea-7c23-4496-9289-fab2609125bd.jpeg)</br>
+
+#awsconfigure
+To configure your aws account open terminal (or command prompt in windows) and type <strong>aws configure</strong> as shown in the image and click enter.Then type you AWS Access Key ID and click enter. Then type your AWS Secret Access Key and so on type your region and your output format.</br> 
+For reference see the image below</br>
+
+
+<img width="601" alt="Screenshot 2022-03-04 at 23 43 42" src="https://user-images.githubusercontent.com/58841159/156819605-92128009-5edb-43e4-a2b0-75ae91edb613.png">
+
 
 
 This is Continuous to another project <strong> Dynamo Db</strong> and <strong>Copy-files-from-one-s3-bucket-to-another-s3-bucket-immediately-by-AWS-LAMBDA Project.</strong></br>
 
 For (Copy-files-from-one-s3-bucket-to-another-s3-bucket-immediately-by-AWS-LAMBDA Project) python code refer [here](https://github.com/surya1527/surya1527-Copy-files-from-one-s3-bucket-to-another-s3-bucket-immediately-by-AWS-LAMBDA) </br>
 
-For (dynamo db) python code refer [here](https://github.com/surya1527/Curd-operations-in-dynamodb)</br>
+For (dynamo db operations) python code refer [here](https://github.com/surya1527/Curd-operations-in-dynamodb)</br>
