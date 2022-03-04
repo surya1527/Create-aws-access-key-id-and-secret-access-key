@@ -50,12 +50,8 @@ In the fifth step (Final Step) you can  can see your access key id and secret ke
 ![WhatsApp Image 2022-01-13 at 17 43 07](https://user-images.githubusercontent.com/58841159/149332793-1995b3ea-7c23-4496-9289-fab2609125bd.jpeg)
 
 
-This is Continuous to another project <strong> Dynamo Db</strong>
+This is Continuous to another project <strong> Dynamo Db</strong> and <strong>Copy-files-from-one-s3-bucket-to-another-s3-bucket-immediately-by-AWS-LAMBDA Project.</strong></br>
 
+For (Copy-files-from-one-s3-bucket-to-another-s3-bucket-immediately-by-AWS-LAMBDA Project) python code refer [here](https://github.com/surya1527/surya1527-Copy-files-from-one-s3-bucket-to-another-s3-bucket-immediately-by-AWS-LAMBDA) </br>
 
-THEN OPEN YOUR AWS LAMBDA AND WRITE THE PROGRAM TO COPY FILES FROM ONE S3 BUCKEET TO ANOTHER S3 BUCKET AS SOON AS IT IS TRIGGERED IN THE LAUNGUAGE YOU ARE COMFORTABLE.
-In my case it is python.
-
-For python code refer to my [repository](https://github.com/surya1527/surya1527-Copy-files-from-one-s3-bucket-to-another-s3-bucket-immediately-by-AWS-LAMBDA)
-
-
+For (dynamo db) python code refer [here](https://github.com/surya1527/Curd-operations-in-dynamodb)</br>
