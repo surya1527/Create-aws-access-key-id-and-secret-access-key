@@ -4,7 +4,7 @@
 
 
 In order connect our system to aws account we need to install AWS CLI. </br>
-In case if you have aws access key id and secret access key [Click here](###awsconfigure) to directly move the configuration step.</br>
+In case if you have aws access key id and secret access key <a href="#aws_Configure">click here</a> to directly move the configuration step.</br>
 
 How to get aws access key id and secret access key?</br>
 
@@ -51,9 +51,11 @@ In the fifth step (Final Step) you can  can see your access key id and secret ke
 
 ![WhatsApp Image 2022-01-13 at 17 43 07](https://user-images.githubusercontent.com/58841159/149332793-1995b3ea-7c23-4496-9289-fab2609125bd.jpeg)</br>
 
-###awsconfigure
+<div> id = "aws_configure" </div>
+
 To configure your aws account open terminal (or command prompt in windows) and type <strong>aws configure</strong> as shown in the image and click enter.Then type you AWS Access Key ID and click enter. Then type your AWS Secret Access Key and so on type your region and your output format.</br> 
 For reference see the image below</br>
+
 
 
 <img width="601" alt="Screenshot 2022-03-04 at 23 43 42" src="https://user-images.githubusercontent.com/58841159/156819605-92128009-5edb-43e4-a2b0-75ae91edb613.png">
