@@ -4,7 +4,7 @@
 
 
 In order connect our system to aws account we need to install AWS CLI. </br>
-In case if you have aws access key id and secret access key [Click here](#awsconfigure) to directly move the configuration step.</br>
+In case if you have aws access key id and secret access key [Click here](###awsconfigure) to directly move the configuration step.</br>
 
 How to get aws access key id and secret access key?</br>
 
@@ -41,7 +41,7 @@ Then under policies search for "s3" and under s3 click on AMAZONS3FULLACCESS
 ![WhatsApp Image 2022-01-13 at 17 44 13](https://user-images.githubusercontent.com/58841159/149331241-1252ea1e-494a-4044-8809-b71e8193fb25.jpeg)
 
 
-Then in the third and fourth step if you want to add any keywords then add or else cntinue to the last step.</br>(
+Then in the third and fourth step if you want to add any keywords then add or else cntinue to the last step.</br>
 
 In the fifth step (Final Step) you can  can see your access key id and secret key id.
 (Do not share you access key id  and secret key id to anyone and for a user it is his responsibility to remember his secret key id.)
@@ -51,7 +51,7 @@ In the fifth step (Final Step) you can  can see your access key id and secret ke
 
 ![WhatsApp Image 2022-01-13 at 17 43 07](https://user-images.githubusercontent.com/58841159/149332793-1995b3ea-7c23-4496-9289-fab2609125bd.jpeg)</br>
 
-#awsconfigure
+###awsconfigure
 To configure your aws account open terminal (or command prompt in windows) and type <strong>aws configure</strong> as shown in the image and click enter.Then type you AWS Access Key ID and click enter. Then type your AWS Secret Access Key and so on type your region and your output format.</br> 
 For reference see the image below</br>
 
